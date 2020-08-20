@@ -1,0 +1,48 @@
+p{
+color:black ;
+font-size: 20px
+}
+
+h1{
+font-family: helvetica;
+font-size: 100px
+text-align: center;
+}
+
+body{
+  text-align:center;
+    background-color: pink;
+}
+#randomnamehere{
+  color: white ;
+}
+
+purple-stuff{
+
+}
+.block{
+  display: square;
+  height: 20%;
+  border: no-borders;
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.menu{
+  list-style: none;
+  background-color: black;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+.menu li{
+  float: left;
+}
+.menu li a{
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-align: center;
+  
+}
